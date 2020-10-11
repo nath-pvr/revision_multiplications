@@ -16,6 +16,8 @@ $tableM13 = [0,13,26,39,52,65,78,91,104,117,130];
 $tableM14 = [0,14,28,42,56,70,84,98,112,126,140];
 $tableM15 = [0,15,30,45,60,75,90,105,120,135,150];
 
+$multiplicyTables =[$tableM1,$tableM2,$tableM3,$tableM4,$tableM5,$tableM6,$tableM7,$tableM8,$tableM9,$tableM10,$tableM11,$tableM12,$tableM13,$tableM14,$tableM15];
+
 // function multiplicationTable($number){
 //     foreach ($variable as $key => $value) {
         
